@@ -60,19 +60,4 @@ src/
 6. Set recurring reminders on the Reminders page.
 7. Export/import data and customize categories in Settings.
 
-## Homework Requirements Covered
 
-1. Expense & income management with title, amount, date, category
-2. Authentication & user management (LocalStorage)
-3. Categories (predefined + custom)
-4. Pie Chart & Line Chart reports
-5. Redux for state management + LocalStorage persistence
-6. Search & filter transactions
-7. Responsive design with Tailwind CSS
-8. Recurring expense reminders
-9. Multi-wallet support + transfers
-10. CSV import / export
-
----
-
-Expense Tracker - Frontend Homework
